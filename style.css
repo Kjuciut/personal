@@ -1,0 +1,61 @@
+body {
+	
+	background-image: url("second.jpeg");
+	height: 1000px;
+	width: 1000px;
+	background-position: center;
+	background-size: cover;
+	}
+header {
+	
+	
+}
+main {
+	background-color: ;
+}
+
+footer{ 
+	background-color:#fcf092;
+}
+
+footer p {
+background-color: }
+	
+img {
+	width:450px;
+	height: 500px;
+}
+h1 {
+ }
+#container{
+	width:1000px;
+	margin-left: 10px;
+margin-right: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+ 
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+	
+	
